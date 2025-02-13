@@ -1,6 +1,12 @@
+<div align="center">
+  
+![favicon](https://github.com/user-attachments/assets/ba86af86-a98e-4842-9cc4-5871c5ef234b)
+
+</div>
+
 # Edemy LMS - A Modern Learning Management System
 
-![Edemy LMS](https://your-image-url.com/banner.png)
+
 
 ## 📌 Overview
 Edemy LMS is a modern Learning Management System (LMS) built using **Vite** for fast performance and efficient development. It provides a seamless platform for students to enroll in courses, watch educational videos, and track their progress.
@@ -38,19 +44,6 @@ npm install
 npm run dev
 ```
 
-## 📸 Screenshots
-
-![image](https://github.com/user-attachments/assets/06ad6530-020d-4bf2-be90-b6d4550d147c)
-![image](https://github.com/user-attachments/assets/d0b7ba1c-9f1a-43dc-87be-e2b52c51c21d)
-![image](https://github.com/user-attachments/assets/b7449f63-d050-477c-aad8-c2827fa67b62)
-![image](https://github.com/user-attachments/assets/98f0c678-507f-4994-8c7d-979a08866c5b)
-![image](https://github.com/user-attachments/assets/cad83f35-d6f6-45bc-89bc-04e14b0c4b48)
-![image](https://github.com/user-attachments/assets/0ed30f4a-8357-4fbf-83f2-2080e2ea80f7)
-![image](https://github.com/user-attachments/assets/d4e56f48-a98a-47b9-a752-167e19d9934d)
-![image](https://github.com/user-attachments/assets/69deb4c8-6b04-4daa-a501-59ee9fffb07b)
-![image](https://github.com/user-attachments/assets/8deee70a-8d53-4bed-ad2b-2402eff0beb4)
-
-
 
 
 
@@ -62,10 +55,10 @@ npm run dev
 | ![image](https://github.com/user-attachments/assets/b7449f63-d050-477c-aad8-c2827fa67b62) | Course Details |
 | ![image](https://github.com/user-attachments/assets/98f0c678-507f-4994-8c7d-979a08866c5b) | Video Player |
 | ![image](https://github.com/user-attachments/assets/cad83f35-d6f6-45bc-89bc-04e14b0c4b48) | User Dashboard |
-| ![image](https://github.com/user-attachments/assets/0ed30f4a-8357-4fbf-83f2-2080e2ea80f7) | Course Progress |
-| ![image](https://github.com/user-attachments/assets/d4e56f48-a98a-47b9-a752-167e19d9934d) | Settings Page |
-| ![image](https://github.com/user-attachments/assets/69deb4c8-6b04-4daa-a501-59ee9fffb07b) | Notifications |
-| ![image](https://github.com/user-attachments/assets/8deee70a-8d53-4bed-ad2b-2402eff0beb4) | Mobile View |
+| ![image](https://github.com/user-attachments/assets/0ed30f4a-8357-4fbf-83f2-2080e2ea80f7) | Add Course |
+| ![image](https://github.com/user-attachments/assets/d4e56f48-a98a-47b9-a752-167e19d9934d) | My Course |
+| ![image](https://github.com/user-attachments/assets/69deb4c8-6b04-4daa-a501-59ee9fffb07b) | Course Progress |
+| ![image](https://github.com/user-attachments/assets/8deee70a-8d53-4bed-ad2b-2402eff0beb4) | Course Structure |
 
 
 
